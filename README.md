@@ -1,2 +1,2 @@
-# Projects-and-Research
-This repository is dedicated to showcase my empirical research paper as well as coding samples in SAS, and R
+# CS505-Computational-Tools-for-Data-Science
+Repository for CS 505 as taught Fall 2016 in BU Computer Science
